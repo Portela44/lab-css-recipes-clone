@@ -34,7 +34,7 @@ header > h2 {
 
     /*detail images*/
 .recipeInfo {
-    height:65px;
+    height:60px;
     padding-top: 20px;
 }
 
@@ -43,16 +43,6 @@ header > h2 {
     border-top: 2px solid grey;
     border-bottom: 2px solid grey;
     margin: 0px 100px;
-}
-#Ingredients > h3 {
-    font-weight: 200;
-    padding:35px 0px 15px 0px;
-    font-size: 1.5em;
-}
-#Ingredients > ul {
-    padding: 0px 30px;
-    font-size:1.2em;
-    font-weight: 100;
 }
 
 .cookingInfo {
@@ -63,4 +53,20 @@ header > h2 {
 #Ingredients > div {
     text-align: center;
 }
+/*Ingredients + Directions*/
 
+h3 {
+    font-weight: 200;
+    padding:35px 0px 15px 0px;
+    font-size: 1.5em;
+}
+.list {
+    padding: 0px 30px;
+    font-size:1.2em;
+    font-weight: 100;
+}
+
+/*Directions*/
+#Directions {
+    margin: 0px 100px 100px 100px;
+}
