@@ -44,3 +44,35 @@ header > p {
   padding: 0px 250px;
   height: 55px;
 }
+
+/*ingredients+directions*/
+section > p {
+  font-weight:400;
+  font-size:1.1em;
+}
+section {
+  font-weight: 120;
+  font-size: 0.9em;
+}
+
+/*cooking-info picture*/
+#cooking-info{
+  padding: 0px 150px;
+  height: 75px;
+}
+
+/*ingredients section adjustments*/
+#ingredients {
+  border-top: 2px solid grey;
+  border-bottom: 2px solid grey;
+  margin: 40px 100px;
+  padding: 20px 0px;
+}
+
+/*directions section adjustments*/
+#directions {
+  margin: 40px 100px;
+  padding: 0px 0px 50px 0px;
+}
+
+
